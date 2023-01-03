@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ldkh72n09cm43m97?svg=true)](https://ci.appveyor.com/project/fat0n/net-autoselenium)
+[![Build status](https://ci.appveyor.com/api/projects/status/nxierv5e3ej8uupf?svg=true)](https://ci.appveyor.com/project/fat0n/net-autoselenide)
